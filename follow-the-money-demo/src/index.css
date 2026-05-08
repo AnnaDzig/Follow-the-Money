@@ -1,0 +1,15 @@
+@config "../tailwind.config.js";
+@import "tailwindcss";
+
+@theme {
+  --color-background: #020617;
+  --color-surface: #0f172a;
+  --color-surface-soft: #111827;
+  --color-border-soft: #1e293b;
+  --color-text-main: #e5e7eb;
+  --color-text-muted: #94a3b8;
+  --color-accent: #38bdf8;
+  --color-risk-low: #22c55e;
+  --color-risk-medium: #f59e0b;
+  --color-risk-high: #ef4444;
+}
