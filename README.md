@@ -1,3 +1,4 @@
 # Follow-the-Money
 Crypto Investigation Graph Demo
-deploy : https://annadzig.github.io/Follow-the-Money/
+
+# Deploy : https://annadzig.github.io/Follow-the-Money/
